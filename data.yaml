@@ -1,0 +1,6 @@
+train: E:\data\book-seg-datasetv1.1\train\images
+val: E:\data\book-seg-datasetv1.1\validation\images
+test: E:\data\book-seg-datasetv1.1\test\images
+
+nc: 1
+names: ['0']
